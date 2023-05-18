@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cypress-page-object-model": "^1.0.26"
+  },
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "cypress open"
+  }
+}
